@@ -53,4 +53,6 @@ function Profiledet(props){
 
 }
 
+
+
 export default Profiledet;
